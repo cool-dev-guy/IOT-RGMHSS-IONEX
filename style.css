@@ -18,7 +18,7 @@ img{
   background:#222;
   width:100%;
   height:100%;
-  animation:ldd 2s linear;
+  animation:ldd 3s linear;
   z-index:-100;
 }
 .back-screen{
@@ -59,7 +59,7 @@ input{
 div{
   padding:10px;
   display:grid;
-  height:40px;
+  height:10vh;
   grid-template-columns:1fr auto;
 }
 section{
@@ -69,10 +69,10 @@ section{
   grid-template-rows:1fr auto;
 }
 strong{
-  font-size:1.2em;
+  font-size:2em;
 }
 i{
-  font-size:0.8em;
+  font-size:1.2em;
 }
 .ordered{
   background:gold;
